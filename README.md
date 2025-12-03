@@ -36,7 +36,7 @@ I want to become the kind of TA/People person who can **talk to engineers in the
   - Hiring for **RL infra, Gameplay AI, C++ / CUDA, LLM researchers** and more  
   - Working closely with founders / CTO-level leaders
 - **Independent recruiter on Upwork**  
-  - Top Rated, 25k+ USD billed  
+  - Top Rated, 35k+ USD billed  
   - Focus on global, remote, English-speaking roles
 - **Language teacher & content creator**  
   - Teaching English/Japanese/Chinese  
