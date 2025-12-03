@@ -73,7 +73,8 @@ _Not a full stack engineer yet — but working on it._
 ## 📬 Find me
 
 - GitHub: **@JianiX**  
-- Upwork: global tech recruiter & TA consultant  
+- Upwork: https://upwork.com/freelancers/jianix
+- Linkedin: https://www.linkedin.com/in/jiani-xing/   
 - Email: `Jiani.Xing@outlook.com`
 
 If you’re building in **AI / games / remote teams** and care about people as much as systems, I’d love to connect.
