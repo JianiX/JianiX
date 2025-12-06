@@ -24,7 +24,7 @@ I work at the intersection of **talent, deep tech and business outcomes**.
   - Level & compensation alignment
   - Final hiring decision support
 
-### 🏹 AI Headhunter @ SmartDeer (China)
+### 🏹 AI Headhunter @ SmartDeer
 - Specialized exclusively in **high-ticket AI & algorithm roles**
 - Working only on:
   - **Annual package ≥ ¥1,000,000 RMB**
