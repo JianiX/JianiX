@@ -1,80 +1,117 @@
-# 🌏 Jiani here
+🌏 Hi, I’m Jiani  
 
-I’m a **Senior Talent Acquisition Manager** focused on global tech & AI recruiting, currently working remotely with game & AI teams.
+Senior Talent Acquisition Manager & AI Headhunter focused on **high-end AI, game tech & infrastructure roles**.  
+Working with distributed teams across **US / Europe / Asia**, connecting top engineers with **real decision-makers, real budgets and real long-term opportunities**.
 
-Right now I:
-- Partner with engineers and leaders working on **RL, LLMs, Gameplay AI and Anti-Cheat**
-- Help build distributed teams across **US / Europe / Asia**
-- Work as a **top-rated Upwork recruiter & HR consultant** for international clients
-
-Curious by nature, I like understanding how systems (and people) really work.  
-Recently I realised there is one big missing piece in my toolkit: **computer science fundamentals** — so I’m actively fixing that.
+I work at the intersection of **talent, deep tech and business outcomes**.
 
 ---
 
-## 🌱 My Learning Journey (CS & Tech)
+## 🧠 What I Do
 
-I’m transitioning from “technical recruiter” → “recruiter who can actually read and write code”.
+### 🎯 Senior TA Manager @ A5 Labs (Remote, US-based)
+- Hiring for:
+  - **RL Infrastructure**
+  - **LLM Research & Engineering**
+  - **Gameplay AI**
+  - **C++ / CUDA High-Performance Engineering**
+  - **Anti-Cheat Systems**
+- Working directly with **founders, CTOs and core engineering leaders**
+- Building **research + engineering hybrid teams** for AI-driven game products
+- Involved in:
+  - Role design
+  - Technical bar definition
+  - Level & compensation alignment
+  - Final hiring decision support
 
-Currently learning:
+### 🏹 AI Headhunter @ SmartDeer (China)
+- Specialized exclusively in **high-ticket AI & algorithm roles**
+- Working only on:
+  - **Annual package ≥ ¥1,000,000 RMB**
+  - **20%–30% fee-level mandates**
+- Focus areas:
+  - Senior AI Engineers
+  - RL / LLM Researchers
+  - AI Infra & High-Performance C++ Engineers
+- High-trust, low-frequency, **quality-first deal model**
+- I only represent:
+  - Candidates with **real engineering depth**
+  - Or **proven research-to-production impact**
+
+### 💼 Independent Global Recruiter & HR Consultant (Upwork)
+- **Top Rated Freelancer**
+- **$35K+ USD billed**
+- Serving clients across:
+  - North America
+  - Europe
+  - Asia
+- Focus on **global, remote-first, English-speaking tech teams**
+
+---
+
+## 🧩 How I Work With Candidates
+
+I don’t operate as a “resume broker”.
+
+For senior-level candidates, I typically support on:
+- Role & career trajectory analysis
+- Team & technical culture transparency
+- Compensation benchmarking (global-aware)
+- Interview strategy & expectation alignment
+- Offer-level decision support
+
+My principle:
+> Long-term fit beats short-term placement.
+
+---
+
+## 🌱 Why I Study Computer Science
+
+AI can already write code.  
+My goal is not to replace engineers — it’s to **understand them at a systems level**.
+
+I’m upgrading my technical foundation to:
+- Judge senior technical depth more accurately
+- Communicate with engineers in their native language
+- Avoid “buzzword hiring”
+- Design better **AI-powered hiring & evaluation workflows**
+
+Upgrading toward:
+> “System-aware recruiter & builder.”
+
+---
+
+## 🧩 Current Learning Stack (For Technical Depth)
 
 - **CS50 (Harvard)** – C, algorithms, problem solving  
-- **C programming basics** – functions, loops, conditionals  
-- **Data structures & algorithms** – preparing for future CS master applications  
-- **Math refresh** – linear algebra & discrete math for ML / AI  
-- Building small C programs and logging everything in  
+- **C Programming** – memory, control flow, program structure  
+- **Data Structures & Algorithms** – long-term foundation  
+- **Math Refresh** – linear algebra & discrete math (for ML/RL understanding)  
+- Learning notes & small builds:
   👉 [`cs50-learning-log`](https://github.com/JianiX/cs50-learning-log)
 
-I’m not trying to become a full-time SWE;  
-I want to become the kind of TA/People person who can **talk to engineers in their language** and design better systems around them.
+Not pursuing a SWE role.  
+Pursuing **technical literacy for better judgment and better systems**.
 
 ---
 
-## 🧩 What I work on today
+## 🚀 What I’m Building Toward
 
-- **Senior TA Manager @ A5 Labs** (remote)  
-  - Hiring for **RL infra, Gameplay AI, C++ / CUDA, LLM researchers** and more  
-  - Working closely with founders / CTO-level leaders
-- **Independent recruiter on Upwork**  
-  - Top Rated, 35k+ USD billed  
-  - Focus on global, remote, English-speaking roles
-- **Language teacher & content creator**  
-  - Teaching English/Japanese/Chinese  
-  - Sharing remote work & side-hustle tips
+- AI-powered interview & evaluation systems
+- Smarter global hiring infrastructure
+- Career acceleration tools for senior & non-traditional tech talent
+
+Long-term goal:
+> Make high-level global tech hiring **more transparent, more accurate, and less wasteful**.
 
 ---
 
-## 🚀 What’s Next
+## 📬 Connect With Me
 
-Short–mid term:
+- GitHub: **@JianiX**
+- LinkedIn: https://www.linkedin.com/in/jiani-xing/  
+- Upwork: https://upwork.com/freelancers/jianix  
+- Email: Jiani.Xing@outlook.com  
 
-- Finish **CS50** and a full **Data Structures & Algorithms** course  
-- Build a small web/app prototype for an **AI-powered interview coach**  
-- Prepare prerequisites for an online **CS / AI master’s degree**
-
-Longer term:
-
-- Combine **TA + CS** to build better tools for hiring & upskilling young candidates  
-- Help more non-traditional candidates break into global tech roles
-
----
-
-## 🛠️ Tech in Progress
-
-_Not a full stack engineer yet — but working on it._
-
-- C / Python (beginner → improving)
-- GitHub & version control
-- Basic algorithms & complexity
-- Planning to add: SQL, Flask/FastAPI, basic ML
-
----
-
-## 📬 Find me
-
-- GitHub: **@JianiX**  
-- Upwork: https://upwork.com/freelancers/jianix
-- Linkedin: https://www.linkedin.com/in/jiani-xing/   
-- Email: `Jiani.Xing@outlook.com`
-
-If you’re building in **AI / games / remote teams** and care about people as much as systems, I’d love to connect.
+If you’re a **senior AI / game / infra engineer** exploring your next high-impact role —  
+feel free to connect.
