@@ -1,4 +1,4 @@
-🌏 Hi, I’m Jiani  
+## 🌏 Hi, I’m Jiani  
 
 Senior Talent Acquisition Manager & AI Headhunter focused on **high-end AI, game tech & infrastructure roles**.  
 Working with distributed teams across **US / Europe / Asia**, connecting top engineers with **real decision-makers, real budgets and real long-term opportunities**.
